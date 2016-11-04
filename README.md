@@ -1,2 +1,2 @@
-# olink-export
-ORTHANC to JPEG/PNG Exporter
+# olink
+ORTHANC Command-line Management Utility
